@@ -537,7 +537,7 @@ header {
     align-items: center;
     background-color: #8c9597;
     background-attachment: fixed;
-    background-image: url(http://www.sefc.ca/wp-content/themes/illdy/layout/images/front-page/front-page-counter.jpg);
+    background-image: url(/illdy_clone/imgs/10001.jpg);
   }
   .counters{
     position:absolute;
